@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/platform-Linux-1793D1" alt="Linux">
   <img src="https://img.shields.io/badge/built%20with-yeet%20%2B%20GraphQL-8A2BE2" alt="yeet + GraphQL">
   <img src="https://img.shields.io/badge/license-GPL--2.0-3DA639" alt="GPL-2.0">
-  <a href="https://discord.gg/dYZu9PjKB"><img src="https://img.shields.io/badge/chat-Discord-5865F2" alt="Discord"></a>
+  <a href="https://discord.gg/JxVseaAVAU"><img src="https://img.shields.io/badge/chat-Discord-5865F2" alt="Discord"></a>
 </p>
 
 ![netwatch demo](assets/netwatch.gif)
@@ -185,4 +185,4 @@ GPL-2.0, consistent with the yeet-src project family.
 
 ---
 
-Built with [yeet](https://yeet.cx/docs/?utm_source=github&utm_medium=readme&utm_campaign=netwatch), a JS runtime for building live kernel-powered tools on Linux. Join us on [discord](https://discord.gg/dYZu9PjKB?utm_source=github&utm_medium=readme&utm_campaign=netwatch).
+Built with [yeet](https://yeet.cx/docs/?utm_source=github&utm_medium=readme&utm_campaign=netwatch), a JS runtime for building live kernel-powered tools on Linux. Join us on [discord](https://discord.gg/JxVseaAVAU?utm_source=github&utm_medium=readme&utm_campaign=netwatch).
